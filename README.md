@@ -3,9 +3,9 @@
 A new Flutter project.
 
 <div align='center'>
-    <img src='https://github.com/shervinbdndev/Material_Auth_UI/blob/master/images/1.png'>
+    <img src='https://github.com/shervinbdndev/Material-Auth-UI/blob/master/images/1.png'>
     <br><br>
-    <img src='https://github.com/shervinbdndev/Material_Auth_UI/blob/master/images/2.png'>
+    <img src='https://github.com/shervinbdndev/Material-Auth-UI/blob/master/images/2.png'>
 </div>
 
 ## Getting Started
